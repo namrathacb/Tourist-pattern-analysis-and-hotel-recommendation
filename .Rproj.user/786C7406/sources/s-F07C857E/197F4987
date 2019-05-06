@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557113681618.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1350484034",
+    "id" : "197F4987",
+    "lastKnownWriteTime" : 1557113724,
+    "last_content_update" : 1557113724828,
+    "path" : "~/BA with R/Project/tourist_pattern_analysis/marketing_channel.R",
+    "project_path" : "marketing_channel.R",
+    "properties" : {
+        "cursorPosition" : "0,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

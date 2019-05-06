@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557113619032.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C40EE5B3",
+    "lastKnownWriteTime" : 1557113669,
+    "last_content_update" : 1557113669821,
+    "path" : "~/BA with R/Project/tourist_pattern_analysis/seasonal_booking.R",
+    "project_path" : "seasonal_booking.R",
+    "properties" : {
+        "cursorPosition" : "15,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

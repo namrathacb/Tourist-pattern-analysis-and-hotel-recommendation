@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557113804736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "657394824",
+    "id" : "18B9A68B",
+    "lastKnownWriteTime" : 1557113833,
+    "last_content_update" : 1557113833387,
+    "path" : "~/BA with R/Project/tourist_pattern_analysis/hotel_group_prediction.R",
+    "project_path" : "hotel_group_prediction.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557113749040.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "782815710",
+    "id" : "E4FE44B0",
+    "lastKnownWriteTime" : 1557113771,
+    "last_content_update" : 1557113772006,
+    "path" : "~/BA with R/Project/tourist_pattern_analysis/flight_packages_recommendation.R",
+    "project_path" : "flight_packages_recommendation.R",
+    "properties" : {
+        "cursorPosition" : "8,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
